@@ -1,0 +1,11 @@
+{
+  "display_name": "Business Tracker",
+  "version": "1.0.0",
+  "author": "Kojo",
+  "description": "Tracks money, companies, projects, and jobs per chat with global settings. Supports dual real/custom currency, per-character and shared economy, and full project/job status management.",
+  "js": "index.js",
+  "css": "style.css",
+  "compatibility": "1.12.0",
+  "optional": true,
+  "tags": ["utility", "tracker", "roleplay"]
+}
